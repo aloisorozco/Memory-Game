@@ -4,4 +4,4 @@ Probably my favorite project! It is a higly addictive flashing pattern memory ga
 tons of customizable settings.
 
 This project was done in a group of 2. The technologies used in this program are Java, JavaFX,
-and MySQL. We used the MVC pattern to develop the application.
+and SQLite. We used the MVC pattern to develop the application.
